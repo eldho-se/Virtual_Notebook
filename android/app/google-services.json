@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13543930262",
+    "firebase_url": "https://virtual-notebook-92806.firebaseio.com",
+    "project_id": "virtual-notebook-92806",
+    "storage_bucket": "virtual-notebook-92806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13543930262:android:1fcc22bfe09b66aef385b7",
+        "android_client_info": {
+          "package_name": "com.example.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13543930262-q4je4rcv97tfe4ei4blip5r07o1e3mlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqY94zW6LHILqxb60nt-pETeUga5DHGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13543930262-q4je4rcv97tfe4ei4blip5r07o1e3mlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
